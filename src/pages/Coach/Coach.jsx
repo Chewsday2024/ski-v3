@@ -3,7 +3,7 @@ import SerchInput from './CoachComponents/SerchInput';
 import SelfPage from './CoachComponents/SelfPage';  <SelfPage />
 
 
-import CoachList from './CoachComponents/CoachList';
+
 
 
 
@@ -25,7 +25,7 @@ function Coach() {
         <h1 className='text-white'>教練總覽</h1>
         <SerchInput />
 
-        <CoachList />
+        
       </div>
     </div>
   )

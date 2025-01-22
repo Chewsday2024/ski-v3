@@ -1,5 +1,5 @@
 import { createContext, useRef, useState } from 'react';
-// import CoachList from './CoachList';
+import CoachList from './CoachList';
 
 
 import './SerchInput.scss';
@@ -71,7 +71,7 @@ function SerchInput() {
 
       
 
-    
+      <CoachList />
 
 
 
